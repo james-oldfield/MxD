@@ -1,0 +1,43 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tokens": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "name_index_start": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "name_index_end": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "surname_index_start": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "surname_index_end": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "class": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
